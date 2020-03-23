@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 바보
+title: process
 subtitle: Why you'd want to go on a date with me
 ---
 
